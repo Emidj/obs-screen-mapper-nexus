@@ -1,0 +1,3 @@
+Ten presets exported, validated, reimported and rendered with real plugin GPU engine.
+Production installer extraction: 17 payload hashes verified.
+New isolated installer suite stopped safely at PrepareToInstall because OBS is running. No live OBS was closed or modified; do not count its preceding rejection checks as fresh requirement coverage.

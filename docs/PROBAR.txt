@@ -1,0 +1,45 @@
+OBS SCREEN MAPPER NEXUS — 1.0
+a plugin from DjEmiMas
+
+REQUISITOS
+Windows x64 y OBS Studio 32.2.x o 33.0.x, en modo normal.
+Versiones comprobadas: 32.2.0, 32.2.1, 32.2.2, 33.0.0 y 33.0.1.
+No se admiten OBS 31, 32.0, 32.1, otras ramas ni el modo portable con este instalador.
+
+INSTALAR O ACTUALIZAR
+1. Cierra OBS.
+2. Ejecuta OBS-Screen-Mapper-1.0-Windows-x64-Setup.exe.
+3. Confirma la carpeta principal de OBS y pulsa Instalar / actualizar.
+4. Pulsa Cerrar. Abre OBS y añade OBS Screen Mapper desde Fuentes > +.
+
+El idioma es automático según Windows: español, inglés, italiano, francés o
+alemán; otros idiomas usan inglés. No hay selector de idioma.
+La actualización conserva escenas, perfiles y presets y respalda archivos
+propios reemplazados. Se instala en:
+C:\ProgramData\obs-studio\plugins\obs-screen-mapper
+
+USAR EL MAPPER
+Elige una fuente existente y pulsa Abrir Mapper Editor. Añade y distribuye
+zonas con Split, Repeat o Custom UV. Combina Polygon, Smooth Mesh, máscaras,
+transformaciones 3D y cuatro esquinas. Aplicar guarda sin cerrar; Aceptar guarda
+y cierra; Cancelar descarta los cambios posteriores a la última aplicación.
+Los presets se importan y exportan desde el editor; los ejemplos están en
+data\examples. No sustituyen tu fuente de entrada.
+
+La vista de escena completa comparte las fuentes existentes y no aplica los
+filtros de los contenedores de escena/grupo copiados. Muestra un aviso; la salida
+de OBS conserva esos filtros. No necesitas desactivar Trazo para editar.
+
+DESINSTALAR
+Cierra OBS y pulsa Desinstalar en el instalador, o usa Aplicaciones de Windows.
+Se conservan escenas, ajustes, presets, archivos ajenos y respaldos.
+
+VALIDACIÓN
+Uso real confirmado por el usuario en numerosas escenas y corrección de Trazo
+confirmada. Pruebas automatizadas con libobs/Qt y GPU de las versiones indicadas,
+además de instalación y desinstalación aisladas. No acredita todos los equipos
+ni una emisión prolongada por cada versión. Imagen SDR; HDR sin validar.
+
+Si algo falla, conserva el registro de OBS y anota la acción exacta.
+El instalador escribe su registro en la carpeta temporal de Windows como
+OBS-Screen-Mapper-<identificador>.log. No se distribuyen runtimes de OBS ni Qt.

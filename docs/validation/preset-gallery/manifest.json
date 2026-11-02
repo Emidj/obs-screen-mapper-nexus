@@ -1,0 +1,62 @@
+[
+    {
+        "description": "1 zona · malla suave",
+        "file": "01-panoramica-curva.mapper.json",
+        "name": "Panorámica curva",
+        "zones": 1
+    },
+    {
+        "description": "2 zonas · Split",
+        "file": "02-diptico.mapper.json",
+        "name": "Díptico",
+        "zones": 2
+    },
+    {
+        "description": "3 zonas · Custom UV",
+        "file": "03-triptico-curvo.mapper.json",
+        "name": "Tríptico curvo",
+        "zones": 3
+    },
+    {
+        "description": "6 zonas · Repeat + malla",
+        "file": "04-escenario-seis.mapper.json",
+        "name": "Escenario 3 × 2",
+        "zones": 6
+    },
+    {
+        "description": "12 zonas · Custom UV",
+        "file": "05-videowall.mapper.json",
+        "name": "Videowall 4 × 3",
+        "zones": 12
+    },
+    {
+        "description": "5 zonas · Polygon + Custom UV",
+        "file": "06-abanico.mapper.json",
+        "name": "Abanico",
+        "zones": 5
+    },
+    {
+        "description": "3 zonas · Polygon + malla",
+        "file": "07-rombos.mapper.json",
+        "name": "Tres rombos",
+        "zones": 3
+    },
+    {
+        "description": "5 zonas · máscaras elípticas",
+        "file": "08-orbital.mapper.json",
+        "name": "Orbital",
+        "zones": 5
+    },
+    {
+        "description": "4 zonas · malla con perfil de onda",
+        "file": "09-ondas.mapper.json",
+        "name": "Ondas",
+        "zones": 4
+    },
+    {
+        "description": "5 zonas · Repeat + Polygon + malla",
+        "file": "10-cabina-dj.mapper.json",
+        "name": "Cabina DJ",
+        "zones": 5
+    }
+]

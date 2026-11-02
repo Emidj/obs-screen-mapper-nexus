@@ -1,0 +1,36 @@
+VISTA DE ESCENA COMPLETA
+
+El botón «Ver escena completa», encima del preview, permite montar las zonas
+viendo las otras fuentes de OBS como referencia. El selector muestra escenas
+que contienen este Mapper, también a través de grupos o escenas anidadas.
+Intenta elegir la escena actual de OBS; si no está disponible usa la primera.
+
+La composición de referencia es privada. Comparte las fuentes existentes;
+no crea otro reproductor ni decodifica de nuevo sus vídeos. Sustituye este
+Mapper por su copia de trabajo para ver los cambios antes de Aplicar.
+El orden, visibilidad, posición, escala, giro y recorte normal de los elementos
+se conservan. Los tiradores y el ratón siguen la posición del Mapper en OBS.
+
+El botón de actualizar junto al selector recoge cambios de estructura y
+posición hechos en la escena. Las fuentes de vídeo continúan en vivo.
+Al salir de esta vista se recuperan zoom y desplazamiento de la vista aislada.
+La referencia no se añade al preset ni cambia la fuente de entrada.
+Aplicar y Aceptar mantienen su funcionamiento habitual.
+
+Los filtros aplicados a los contenedores de escena o grupo copiados se omiten
+solo en esta referencia de edición. Esto evita que filtros como Trazo, con
+dimensiones iniciales nulas o cambios geométricos, bloqueen la vista completa.
+El editor avisa cuando omite filtros. Los filtros de la escena original siguen
+activos en la salida de OBS. Los filtros de las fuentes de vídeo compartidas
+se conservan. La vista de referencia no representa el resultado de los filtros
+omitidos: comprueba su acabado en la salida de OBS.
+
+Si el Mapper aparece varias veces se actualizan todas sus apariciones, como
+en OBS; los tiradores se dibujan en la primera visible. El estado lo indica.
+Si está oculto, se respeta la visibilidad de OBS y se indica en el editor.
+Si se elimina la escena, vuelve automáticamente a la vista aislada.
+
+Una colocación con escala nula o recorte a límites no permite activar la
+edición en contexto: se muestra el motivo. Cambios geométricos mediante
+filtros, transiciones, HDR y otras configuraciones avanzadas requieren
+validación adicional. Esta vista no sustituye la prueba de la salida real.

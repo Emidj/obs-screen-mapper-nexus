@@ -1,0 +1,7 @@
+PASS: production EXE extraction hash bin\64bit\obs-screen-mapper-ui.dll
+PASS: production EXE extraction hash bin\64bit\obs-screen-mapper.dll
+PASS: production EXE extraction hash data\LICENSE.txt
+PASS: production EXE extraction hash data\NOTICE.txt
+PASS: production EXE extraction hash data\PROBAR.txt
+PASS: production EXE extraction hash data\SHA256SUMS.txt
+PASS: production EXE extraction hash data\examples\escenario-curvo-6-zonas.mapper.json

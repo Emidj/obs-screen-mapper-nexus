@@ -1,0 +1,14 @@
+OBS Screen Mapper 0.1.0 preview
+a plugin from DjEmiMas
+https://discord.gg/dhcqZPDYh
+
+Código original de este proyecto: GPL-2.0-or-later. Véase LICENSE.txt.
+El paquete fuente correspondiente acompaña al instalador de prueba.
+
+Se enlaza con libobs (OBS Studio, GPL-2.0-or-later) y Qt 6 mediante las
+bibliotecas que proporciona la instalación de OBS. No se incluyen las DLL
+de OBS, Qt ni el runtime de Microsoft en este instalador.
+
+OBS Studio es un proyecto independiente; este plugin no es un producto
+oficial de OBS. Qt y Microsoft pertenecen a sus respectivos titulares.
+Los programas de compilación y pruebas no forman parte del runtime.

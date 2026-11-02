@@ -1,0 +1,8 @@
+OBS Screen Mapper NEXUS · 1.0
+a plugin from DjEmiMas
+
+Fuente nativa para OBS Studio 32.2.x / 33.0.x en Windows x64.
+Cierra OBS. Pulsa Instalar / actualizar, Cerrar o Desinstalar.
+Idioma automático según Windows. Se conservan escenas, perfiles y presets.
+El instalador usa la carpeta compartida de plugins y no admite modo portable.
+La referencia del editor omite filtros de escena/grupo; la salida los conserva.

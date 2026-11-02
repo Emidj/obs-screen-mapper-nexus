@@ -1,0 +1,17 @@
+
+Algorithm : SHA256
+Hash      : 91457131EDC7F45985B292AD87E0F08440A91E7E4FFF5752FFCD38DC8025A611
+Path      : C:/Projects/OBS Screen Mapper\obs-screen-mapper\build\phase9-baseline\obs-screen-mapper-ui.dll
+
+Algorithm : SHA256
+Hash      : B25CC4742401BEB2851D6F00EED62B7AA95DC4D0A64B7FFC4CCB031F5309E55D
+Path      : C:/Projects/OBS Screen Mapper\obs-screen-mapper\build\phase9-baseline\obs-screen-mapper.dll
+
+Algorithm : SHA256
+Hash      : 55C00EF0A2B41A02A66633B05F33274E675000909BFFA22C66C2A0CEF77E9714
+Path      : C:/Projects/OBS Screen Mapper\obs-screen-mapper\dist\obs-screen-mapper\bin\64bit\obs-screen-mapper-ui.dll
+
+Algorithm : SHA256
+Hash      : CBFDB5A6174D4D5381DA136A8D0DFC83B2942A46BFFD0A19CD7866855F7A4CE5
+Path      : C:/Projects/OBS Screen Mapper\obs-screen-mapper\dist\obs-screen-mapper\bin\64bit\obs-screen-mapper.dll
+

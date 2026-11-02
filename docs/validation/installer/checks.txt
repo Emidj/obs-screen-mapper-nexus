@@ -1,0 +1,30 @@
+PASS: missing OBS rejected without deployment
+PASS: unsupported OBS executable rejected
+PASS: incomplete OBS installation rejected
+PASS: portable mode explicitly rejected
+PASS: manual duplicate rejected and preserved
+PASS: fresh installation in Unicode path succeeds
+PASS: installed payload hash: bin\64bit\obs-screen-mapper-ui.dll
+PASS: installed payload hash: bin\64bit\obs-screen-mapper.dll
+PASS: installed payload hash: data\LICENSE.txt
+PASS: installed payload hash: data\NOTICE.txt
+PASS: installed payload hash: data\PROBAR.txt
+PASS: installed payload hash: data\SHA256SUMS.txt
+PASS: installed payload hash: data\examples\escenario-curvo-6-zonas.mapper.json
+PASS: linker artifacts excluded
+PASS: isolated uninstaller and registration created
+PASS: installer refuses while OBS-named process is running
+PASS: uninstaller refuses while OBS-named process is running
+PASS: reinstallation replaces changed owned payload
+PASS: previous changed DLL backed up byte-for-byte
+PASS: identical reinstall succeeds
+PASS: identical reinstall creates no redundant backup
+PASS: invalid unrelated scene JSON never read or modified
+PASS: uninstall succeeds
+PASS: both owned DLLs removed
+PASS: unrelated file inside plugin directory preserved
+PASS: presets and scenes preserved on uninstall
+PASS: backups preserved on uninstall
+PASS: isolated uninstall registry entry removed
+PASS: second uninstall has no registered package to remove
+PASS: production plugin registration untouched

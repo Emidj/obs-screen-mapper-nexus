@@ -1,0 +1,7 @@
+{
+  "scope": "isolated installer fixture; no real OBS installation or rendering",
+  "installer_sha256": "A553C5A1AC3957B33923815A1B42BB439B0EF67DD147E62CC09CAB01BB1C388B",
+  "passed": true,
+  "checks": 30,
+  "directory": "C:\\Projects\\OBS Screen Mapper\\obs-screen-mapper\\build\\installer\\tests-68da85c16e344aae97b84b78acb70606"
+}

@@ -1,0 +1,6 @@
+Cambios del editor y selector (2026-10-27)
+- Aplicar actualiza OBS y deja abierto el editor. Aceptar aplica y cierra.
+- Cancelar conserva lo ya aplicado y descarta las ediciones posteriores.
+- Fuentes, Grupos y Escenas: orden alfabético por sección, encabezados desactivados.
+- Compilación y 1024 comprobaciones aisladas completadas; 17 archivos del EXE extraídos y comparados por SHA256.
+- La nueva prueba de instalación completa no se completó: detección de OBS abierto y consulta WMI inaccesible en este entorno. No se ha validado una sesión real de OBS para este cambio.

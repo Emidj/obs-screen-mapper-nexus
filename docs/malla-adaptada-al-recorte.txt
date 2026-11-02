@@ -1,0 +1,23 @@
+ADAPTAR LA MALLA AL RECORTE, SIN ESTIRAR EL VÍDEO
+
+En Máscara, configura Rectángulo o Elipse y pulsa «Adaptar malla al recorte».
+El editor pasa a Forma > Editar malla. Los controles se distribuyen sobre
+la zona recortada y su borde; no se limitan a ocultar puntos exteriores.
+El campo de deformación se calcula respecto de ese nuevo dominio editable.
+
+La adaptación conserva la imagen, la región UV, el Polígono y la transformación
+3D. Solo después, al mover los nuevos controles, se deforma el resultado del
+recorte. La máscara continúa activa y acompaña la deformación.
+La distribución también respeta los límites de la fuente cuando una parte
+de la elipse queda fuera. Se mantienen columnas, filas y selección suave.
+
+La acción se puede deshacer y se guarda en OBS y en los presets (esquema 7).
+Los presets anteriores siguen siendo compatibles. Aplicar y Aceptar conservan
+su funcionamiento habitual.
+
+Esta versión admite rectángulos y elipses sin invertir, con intensidad 100 %.
+PNG/SVG, máscaras invertidas y de intensidad parcial no se adaptan todavía.
+Una máscara de tamaño cero se rechaza. La malla debe estar sin desplazamientos
+manuales: si ya moviste puntos, se conserva todo y se pide deshacer o restablecer
+la malla antes de adaptar. Las curvaturas activas se conservan.
+Cambiar la máscara después no redistribuye automáticamente una malla ya editada.

@@ -1,0 +1,93 @@
+{
+  "Carpeta de OBS Studio": [
+    "Carpeta de OBS Studio",
+    "OBS Studio folder",
+    "Cartella OBS Studio",
+    "Dossier OBS Studio",
+    "OBS-Studio-Ordner"
+  ],
+  "Carpeta…": [
+    "Carpeta…",
+    "Browse…",
+    "Cartella…",
+    "Parcourir…",
+    "Ordner…"
+  ],
+  "Instalar / actualizar": [
+    "Instalar / actualizar",
+    "Install / update",
+    "Installa / aggiorna",
+    "Installer / mettre à jour",
+    "Installieren / aktualisieren"
+  ],
+  "Desinstalar": [
+    "Desinstalar",
+    "Uninstall",
+    "Disinstalla",
+    "Désinstaller",
+    "Deinstallieren"
+  ],
+  "Split · Repeat · Custom UV\nPolígono · Malla suave · Máscaras · Transformación 3D\nEditor visual con referencia de escena completa.": [
+    "Split · Repeat · Custom UV\nPolígono · Malla suave · Máscaras · Transformación 3D\nEditor visual con referencia de escena completa.",
+    "Split · Repeat · Custom UV\nPolygon · Smooth mesh · Masks · 3D transform\nVisual editor with full scene reference.",
+    "Split · Repeat · Custom UV\nPoligono · Griglia morbida · Maschere · Trasformazione 3D\nEditor visuale con riferimento della scena completa.",
+    "Split · Repeat · Custom UV\nPolygone · Maillage lisse · Masques · Transformation 3D\nÉditeur visuel avec référence de scène complète.",
+    "Split · Repeat · Custom UV\nPolygon · Weiches Netz · Masken · 3D-Transformation\nVisueller Editor mit vollständiger Szenenreferenz."
+  ],
+  "Cierra OBS antes de instalar o desinstalar.": [
+    "Cierra OBS antes de instalar o desinstalar.",
+    "Close OBS before installing or uninstalling.",
+    "Chiudi OBS prima di installare o disinstallare.",
+    "Fermez OBS avant l’installation ou la désinstallation.",
+    "OBS vor dem Installieren oder Deinstallieren schließen."
+  ],
+  "El paquete está dañado.": [
+    "El paquete está dañado.",
+    "The package is damaged.",
+    "Il pacchetto è danneggiato.",
+    "Le paquet est endommagé.",
+    "Das Paket ist beschädigt."
+  ],
+  "No se ha encontrado una instalación de OBS Screen Mapper.": [
+    "No se ha encontrado una instalación de OBS Screen Mapper.",
+    "No OBS Screen Mapper installation was found.",
+    "Nessuna installazione di OBS Screen Mapper trovata.",
+    "Aucune installation d’OBS Screen Mapper trouvée.",
+    "Keine Installation von OBS Screen Mapper gefunden."
+  ],
+  "No se pudo completar la operación. Comprueba la carpeta de OBS y vuelve a intentarlo.": [
+    "No se pudo completar la operación. Comprueba la carpeta de OBS y vuelve a intentarlo.",
+    "The operation could not be completed. Check the OBS folder and try again.",
+    "Impossibile completare l’operazione. Controlla la cartella OBS e riprova.",
+    "Impossible de terminer l’opération. Vérifiez le dossier OBS et réessayez.",
+    "Der Vorgang konnte nicht abgeschlossen werden. OBS-Ordner prüfen und erneut versuchen."
+  ],
+  "¿Desinstalar OBS Screen Mapper? Tus escenas y presets se conservarán.": [
+    "¿Desinstalar OBS Screen Mapper? Tus escenas y presets se conservarán.",
+    "Uninstall OBS Screen Mapper? Your scenes and presets will be preserved.",
+    "Disinstallare OBS Screen Mapper? Scene e preset verranno conservati.",
+    "Désinstaller OBS Screen Mapper ? Vos scènes et presets seront conservés.",
+    "OBS Screen Mapper deinstallieren? Szenen und Presets bleiben erhalten."
+  ],
+  "Operación completada. Configuración conservada.": [
+    "Operación completada. Configuración conservada.",
+    "Operation completed. Settings preserved.",
+    "Operazione completata. Impostazioni conservate.",
+    "Opération terminée. Configuration conservée.",
+    "Vorgang abgeschlossen. Einstellungen erhalten."
+  ],
+  "OBS Studio 32.2.x / 33.0.x · Windows x64\nCierra OBS. Se conservarán tus escenas, ajustes y presets.": [
+    "OBS Studio 32.2.x / 33.0.x · Windows x64\nCierra OBS. Se conservarán tus escenas, ajustes y presets.",
+    "OBS Studio 32.2.x / 33.0.x · Windows x64\nClose OBS. Your scenes, settings and presets will be preserved.",
+    "OBS Studio 32.2.x / 33.0.x · Windows x64\nChiudi OBS. Scene, impostazioni e preset verranno conservati.",
+    "OBS Studio 32.2.x / 33.0.x · Windows x64\nFermez OBS. Vos scènes, réglages et presets seront conservés.",
+    "OBS Studio 32.2.x / 33.0.x · Windows x64\nOBS schließen. Szenen, Einstellungen und Presets bleiben erhalten."
+  ],
+  "Cerrar": [
+    "Cerrar",
+    "Close",
+    "Chiudi",
+    "Fermer",
+    "Schließen"
+  ]
+}

@@ -1,0 +1,28 @@
+EDITOR SIMPLIFICADO
+
+Posición: arrastra el interior para mover la zona; el tirador inferior derecho
+cambia la escala y el tirador superior cambia el giro. Los valores numéricos
+permiten ajustar posición, ancho, alto, giro y escala con precisión.
+Perspectiva: profundidad Z, rotaciones X/Y y ajuste por cuatro esquinas.
+Avanzado: pivote, coordenadas de esquinas y destino base heredado.
+
+Forma: Polígono y Editar malla activan su edición directamente en el preview.
+Pueden estar aplicados ambos a la misma zona. Cambiar de pestaña no activa
+ni elimina deformaciones. Las coordenadas de puntos quedan plegadas.
+
+Máscara: en elipse y rectángulo, el tirador central mueve el recorte.
+El tirador exterior cambia el radio de la elipse o el tamaño del rectángulo.
+Conserva las dimensiones numéricas, inversión y suavizado de borde.
+Las máscaras de imagen se siguen configurando con sus controles de archivo.
+
+Vídeo / UV: el tirador central desplaza el encuadre dentro del vídeo; el
+exterior modifica el ancho y alto de la región. Al editar pasa a Custom UV.
+La región permanece dentro del vídeo; para mover un encuadre ya debe haber
+margen fuera de la región seleccionada. La geometría de la zona no cambia.
+
+Vista: cuadrícula, contornos y fondo de referencia. La mano está junto al zoom.
+Espacio + arrastrar sobre el preview, o el botón central, desplaza la vista.
+Cada arrastre de edición se deshace como un único paso.
+
+Aplicar actualiza OBS sin cerrar; Aceptar aplica y cierra.
+Cancelar descarta solo los cambios posteriores al último Aplicar.

@@ -1,0 +1,17 @@
+build/
+build-ui/
+dist/
+outputs/
+work/
+.vs/
+*.user
+*.log
+*.pdb
+*.ilk
+*.obj
+*.dll
+*.exe
+.env
+.env.*
+*.pem
+*.key

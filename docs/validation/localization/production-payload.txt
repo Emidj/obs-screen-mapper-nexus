@@ -1,0 +1,7 @@
+PASS: bin\64bit\obs-screen-mapper-ui.dll
+PASS: bin\64bit\obs-screen-mapper.dll
+PASS: data\LICENSE.txt
+PASS: data\NOTICE.txt
+PASS: data\PROBAR.txt
+PASS: data\SHA256SUMS.txt
+PASS: data\examples\escenario-curvo-6-zonas.mapper.json

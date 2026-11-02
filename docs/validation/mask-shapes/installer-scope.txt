@@ -1,0 +1,2 @@
+Installer fixture not rerun: an OBS process is running. No process closed, no real installation modified.
+Current runtime: 930 functional/auxiliary checks passed; production payload extraction verified separately.
